@@ -11,4 +11,6 @@ Models that have been applied to get an accuracy score of at least 95% are SVM, 
 
 
 The results can be summarized in the table below. All models give a high accuracy score of over 90%. The highest accuracy score is given by Randomized Search at 97% and this means that the model's predictions were 97% correct of all handwritten numbers (observations).
+
+
 <img width="337" alt="mnist_result" src="https://github.com/FarhanaMos/ML_MNIST/assets/98036717/23c50268-da5e-4833-b955-a924687419df">
